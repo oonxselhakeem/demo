@@ -9,7 +9,7 @@
     "lulus": "Tanggal Lulus  22 Juni 2002",
     "ipk": "IPK  2.885",
     "lama": "Lama Studi  5.8",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060001.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060001.jpg"
   },
   {
     "id": 2,
@@ -20,7 +20,7 @@
     "lulus": "Tanggal Lulus  14 Juli 2001",
     "ipk": "IPK  3.038",
     "lama": "Lama Studi  4.9",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060002.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060002.jpg"
   },
   {
     "id": 3,
@@ -31,7 +31,7 @@
     "lulus": "Tanggal Lulus  02 Agustus 2003",
     "ipk": "IPK  2.958",
     "lama": "Lama Studi  7",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060003.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060003.jpg"
   },
   {
     "id": 4,
@@ -42,7 +42,7 @@
     "lulus": "Tanggal Lulus  30 Agustus 2003",
     "ipk": "IPK",
     "lama": "Lama Studi",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060004.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060004.jpg"
   },
   {
     "id": 5,
@@ -53,7 +53,7 @@
     "lulus": "Tanggal Lulus  02 Agustus 2003",
     "ipk": "IPK  2.753",
     "lama": "Lama Studi  7",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060005.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060005.jpg"
   },
   {
     "id": 6,
@@ -64,7 +64,7 @@
     "lulus": "Tanggal Lulus  10 Juli 2003",
     "ipk": "IPK  3.01",
     "lama": "Lama Studi  6.9",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060007.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060007.jpg"
   },
   {
     "id": 7,
@@ -75,7 +75,7 @@
     "lulus": "Tanggal Lulus  30 Agustus 2003",
     "ipk": "IPK",
     "lama": "Lama Studi",
-    "avatar": "Avatar"
+    "avatar": ""
   },
   {
     "id": 8,
@@ -86,7 +86,7 @@
     "lulus": "Tanggal Lulus  22 Juni 2002",
     "ipk": "IPK  2.972",
     "lama": "Lama Studi  5.8",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060012.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060012.jpg"
   },
   {
     "id": 9,
@@ -97,7 +97,7 @@
     "lulus": "Tanggal Lulus  05 Oktober 2001",
     "ipk": "IPK  3.29",
     "lama": "Lama Studi  5.1",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060013.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060013.jpg"
   },
   {
     "id": 10,
@@ -108,7 +108,7 @@
     "lulus": "Tanggal Lulus  17 Nopember 2001",
     "ipk": "IPK  3.132",
     "lama": "Lama Studi  5.3",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060015.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060015.jpg"
   },
   {
     "id": 11,
@@ -119,18 +119,18 @@
     "lulus": "Tanggal Lulus  14 Juli 2001",
     "ipk": "IPK  3.021",
     "lama": "Lama Studi  4.9",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060017.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060017.jpg"
   },
   {
     "id": 12,
     "nama": "Eva Arifi",
     "nim": "NIM  9601060018",
     "masuk": "Tahun Masuk  1996",
-    "skripsi": "SKRIPSI  Analisis Distribusi Pembebanan pada Jembatan Jalan Raya dengan Menggunakan Grillage Analogy Method",
-    "lulus": "Metode Elemen Hingga & Metode Jalur Hingga",
-    "ipk": "Tanggal Lulus  13 Oktober 2001",
-    "lama": "IPK  3.372",
-    "avatar": "Lama Studi  5.2"
+    "skripsi": "SKRIPSI  Analisis Distribusi Pembebanan pada Jembatan Jalan Raya dengan Menggunakan Grillage Analogy Method Metode Elemen Hingga & Metode Jalur Hingga",
+    "lulus": "Tanggal Lulus  13 Oktober 2001",
+    "ipk": "IPK  3.372",
+    "lama": "Lama Studi  5.2",
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060018.jpg"
   },
   {
     "id": 13,
@@ -141,7 +141,7 @@
     "lulus": "Tanggal Lulus  13 Oktober 2001",
     "ipk": "IPK  3.469",
     "lama": "Lama Studi  5.2",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060019.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060019.jpg"
   },
   {
     "id": 14,
@@ -152,7 +152,7 @@
     "lulus": "Tanggal Lulus  30 Agustus 2003",
     "ipk": "IPK  3.007",
     "lama": "Lama Studi  7",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060020.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060020.jpg"
   },
   {
     "id": 15,
@@ -163,7 +163,7 @@
     "lulus": "Tanggal Lulus  27 April 2002",
     "ipk": "IPK  2.955",
     "lama": "Lama Studi  5.7",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060021.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060021.jpg"
   },
   {
     "id": 16,
@@ -174,7 +174,7 @@
     "lulus": "Tanggal Lulus  30 Agustus 2003",
     "ipk": "IPK  2.781",
     "lama": "Lama Studi  7",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060022.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060022.jpg"
   },
   {
     "id": 17,
@@ -185,7 +185,7 @@
     "lulus": "Tanggal Lulus  04 Agustus 2001",
     "ipk": "IPK  3.285",
     "lama": "Lama Studi  5",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060023.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060023.jpg"
   },
   {
     "id": 18,
@@ -196,7 +196,7 @@
     "lulus": "Tanggal Lulus  23 Juni 2001",
     "ipk": "IPK  3.156",
     "lama": "Lama Studi  4.9",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060024.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060024.jpg"
   },
   {
     "id": 19,
@@ -207,7 +207,7 @@
     "lulus": "Tanggal Lulus  23 Juni 2001",
     "ipk": "IPK",
     "lama": "Lama Studi",
-    "avatar": "Avatar  http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060027.jpg"
+    "avatar": "http//sipil.ub.ac.id/siha/admin/upload/mahasiswa/img/9601060027.jpg"
   }
   ]
 }
