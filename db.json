@@ -1,8 +1,9 @@
-[
-{
+"posts": [
+    {
     "judul" : "Kisah Nabi Yunus alaihissalam dan Ikan Paus",
     "coverImage": "https://srv-file8.gofile.io/download/11VdnJ/yunus1.jpg",
     "coverSound" : "coverSoundUrl",
+    "thisFileDownloadUrl" : "thisFileDownloadUrl",
     "storyText":
     [
         "Kisah Nabi Yunus alaihissalam dan Ikan Paus",
@@ -55,4 +56,4 @@
 
     ]
 }
-]
+  ]
