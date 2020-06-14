@@ -1,15 +1,114 @@
+[
 {
-  "posts": [
-    {
-        "id": 150,
-        "type": "Doa Dalam Al Quran",
-        "judul": "Doa Mohon Ampunan dan Rahmat",
-        "nomor": "14",
-        "arab": "رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنْتَ خَيْرُ الرَّاحِمِينَ",
-        "tr": "innahu k<u>aa</u>na fariiqun min 'ib<u>aa</u>dii yaquuluuna rabban<u>aa</u> <u>aa</u>mann<u>aa</u> fa<strong>i</strong>ghfir lan<u>aa</u> wa<strong>i</strong>r<u>h</u>amn<u>aa</u> wa-anta khayru <strong>al</strong>rr<u>aah</u>imiin<strong>a</strong>",
-        "indo": "\"Ya Tuhan kami, kami telah beriman, maka ampunilah kami dan berilah kami rahmat dan Engkau adalah Pemberi rahmat Yang Paling Baik.",
-        "faedah": "",
-        "sumber": "Quran Surah : Al Mu'minun' , Ayat : 109"      
-    }
-  ]
+    "judul" : "Kisah Nabi Yunus alaihissalam dan Ikan Paus",
+    "coverImage": "https://srv-file8.gofile.io/download/11VdnJ/yunus1.jpg",
+    "coverSound" : "coverSoundUrl",
+    "storyText":
+    [
+        "Kisah Nabi Yunus alaihissalam dan Ikan Paus",
+        "Nabi Yunus adalah nabi yang diutus oleh Alloh untuk berdakwah pada kaum Ninawa. Kaum Ninawa tinggal di daerah Mushol, Irak. Kaum Ninawa tinggal di daerah yang mendapat banyak sekali kenikmatan dari Alloh. Kebun kebun yang hijau berbuah lebat, air sungai terpancar di sekitarnya untuk diminum dan bercocok tanam. ",
+        "Demikian juga binatang ternak, sapi dan kambing yang menghasilkan susu dan daging yang cukup.",
+        "Namun sayang, kaum Ninawa tidak mensyukuri nikmat Alloh ini, mereka menyekutukan Alloh dan menyembah berhala dan bintang bintang.",
+        "Nabi Yunus melaksanakan perintah Alloh untuk berdakwah kepada kaum Ninawa, namun mereka masih tetap tidak mau beriman kepada Alloh.",
+        "Nabi Yunus beranggapan bahwa tidak ada lagi kaum Ninawa yang akan beriman kepada Alloh . Hanya sedikit sekali yang mengikuti seruan nabi Yunus. Ajaran-ajaran Nabi Yunus tidak sedikitpun menggugah hati kaum Ninawa.",
+        "Karena merasa sedih dakwahnya tidak didengar, suatu hari Nabi Yunus, pergi meninggalkan kaum Ninawa, dan mengingatkan kaum Ninawa untuk segera bertobat karena akan datang azab jika mereka tidak segera bertobat.",
+        "Nabi Yunus menumpang sebuah kapal yang akan menyeberangi laut , namun ketika kapal itu sedang berlayar tiba-tiba terjadilah badai yang sangat hebat. Kapal berguncang, dan para penumpang sepakat untuk mengurangi beban dengan membuang salah satu di antara mereka ke laut. Undian pertama jatuh pada Nabi Yunus, undian kembali diulang hingga pada undian yang ketiga nama yang keluar adalah nama Nabi Yunus.",
+        "Beliau tersadar bahwa itu adalah kehendak Alloh, Nabi Yunus menjatuhkan diri ke laut. Alloh mewahyukan kepada ikan Nun (paus) untuk menelan Nabi Yunus.",
+        "Di dalam perut ikan Nun, beliau bertobat dan meminta ampun kepada Alloh, dan memohon pertolongan-Nya dan bertasbih selama 40 hari di dalam perut ikan Nun. Alloh mendengar doa Nabi Yunus memerintahkan ikan paus untuk mendamparkan Nabi Yunus di tepi pantai.",
+        "Alloh Yang Maha Penyayang menumbuhkan pohon labu, agar Nabi Yunus yang kurus serta lemah dapat memakan buahnya agar memiliki tenaga kembali. Setelah Nabi Yunus pulih, Alloh  memerintahkan dia kembali ke kaum Ninawa.",
+        "Setelah kembali Nabi Yunus sangat terkejut ketika melihat perubahan penduduk Ninawa yang telah beriman kepada Alloh. Kemudian Nabi Yunus mengajari kaum Ninawa kitab tauhid dan menyempurnakan iman mereka.",
+        "Pelajaran Berharga yang bisa kita ambil dari kisah ini adalah: \n1. Tidak melakukan maksiat pada Alloh. \n2. Segera bertaubat bila telah melakukan kesalahan dan perbuatan buruk. \n3. Tidak putus asa terhadap rahmat Alloh, dalam keadaan apapun.\n4. Alloh sangat menyayangi hamba-hamba-Nya.\nkisah ini disebutkan dalam Al Quran Surat Ash-Shaffat ayat 139 hingga 145"
+
+    ],
+    "storyImage":
+    [
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus1.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus2.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus3.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus4.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus5.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus6.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus7.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus8.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus9.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus9.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus10.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus11.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus11.jpg"
+
+    ],
+    "storySound":
+    [
+        "https://srv-file8.gofile.io/download/11VdnJ/paus1.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus2.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus3.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus4.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus5.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus6.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus7.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus8.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus9.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus10.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus11.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus12.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus13.jpg"
+
+    ]
+},
+{
+    "judul" : "Kisah Ikan Paus dan Nabi Yunus",
+    "coverImage": "https://srv-file8.gofile.io/download/11VdnJ/yunus8.jpg",
+    "coverSound" : "coverSoundUrl",
+    "storyText":
+    [
+        "Kisah Nabi Yunus alaihissalam dan Ikan Paus",
+        "Nabi Yunus adalah nabi yang diutus oleh Alloh untuk berdakwah pada kaum Ninawa. Kaum Ninawa tinggal di daerah Mushol, Irak. Kaum Ninawa tinggal di daerah yang mendapat banyak sekali kenikmatan dari Alloh. Kebun kebun yang hijau berbuah lebat, air sungai terpancar di sekitarnya untuk diminum dan bercocok tanam. ",
+        "Demikian juga binatang ternak, sapi dan kambing yang menghasilkan susu dan daging yang cukup.",
+        "Namun sayang, kaum Ninawa tidak mensyukuri nikmat Alloh ini, mereka menyekutukan Alloh dan menyembah berhala dan bintang bintang.",
+        "Nabi Yunus melaksanakan perintah Alloh untuk berdakwah kepada kaum Ninawa, namun mereka masih tetap tidak mau beriman kepada Alloh.",
+        "Nabi Yunus beranggapan bahwa tidak ada lagi kaum Ninawa yang akan beriman kepada Alloh . Hanya sedikit sekali yang mengikuti seruan nabi Yunus. Ajaran-ajaran Nabi Yunus tidak sedikitpun menggugah hati kaum Ninawa.",
+        "Karena merasa sedih dakwahnya tidak didengar, suatu hari Nabi Yunus, pergi meninggalkan kaum Ninawa, dan mengingatkan kaum Ninawa untuk segera bertobat karena akan datang azab jika mereka tidak segera bertobat.",
+        "Nabi Yunus menumpang sebuah kapal yang akan menyeberangi laut , namun ketika kapal itu sedang berlayar tiba-tiba terjadilah badai yang sangat hebat. Kapal berguncang, dan para penumpang sepakat untuk mengurangi beban dengan membuang salah satu di antara mereka ke laut. Undian pertama jatuh pada Nabi Yunus, undian kembali diulang hingga pada undian yang ketiga nama yang keluar adalah nama Nabi Yunus.",
+        "Beliau tersadar bahwa itu adalah kehendak Alloh, Nabi Yunus menjatuhkan diri ke laut. Alloh mewahyukan kepada ikan Nun (paus) untuk menelan Nabi Yunus.",
+        "Di dalam perut ikan Nun, beliau bertobat dan meminta ampun kepada Alloh, dan memohon pertolongan-Nya dan bertasbih selama 40 hari di dalam perut ikan Nun. Alloh mendengar doa Nabi Yunus memerintahkan ikan paus untuk mendamparkan Nabi Yunus di tepi pantai.",
+        "Alloh Yang Maha Penyayang menumbuhkan pohon labu, agar Nabi Yunus yang kurus serta lemah dapat memakan buahnya agar memiliki tenaga kembali. Setelah Nabi Yunus pulih, Alloh  memerintahkan dia kembali ke kaum Ninawa.",
+        "Setelah kembali Nabi Yunus sangat terkejut ketika melihat perubahan penduduk Ninawa yang telah beriman kepada Alloh. Kemudian Nabi Yunus mengajari kaum Ninawa kitab tauhid dan menyempurnakan iman mereka.",
+        "Pelajaran Berharga yang bisa kita ambil dari kisah ini adalah: \n1. Tidak melakukan maksiat pada Alloh. \n2. Segera bertaubat bila telah melakukan kesalahan dan perbuatan buruk. \n3. Tidak putus asa terhadap rahmat Alloh, dalam keadaan apapun.\n4. Alloh sangat menyayangi hamba-hamba-Nya.\nkisah ini disebutkan dalam Al Quran Surat Ash-Shaffat ayat 139 hingga 145"
+
+    ],
+    "storyImage":
+    [
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus1.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus2.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus3.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus4.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus5.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus6.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus7.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus8.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus9.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus9.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus10.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus11.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/yunus11.jpg"
+
+    ],
+    "storySound":
+    [
+        "https://srv-file8.gofile.io/download/11VdnJ/paus1.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus2.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus3.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus4.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus5.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus6.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus7.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus8.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus9.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus10.mp3",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus11.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus12.jpg",
+        "https://srv-file8.gofile.io/download/11VdnJ/paus13.jpg"
+
+    ]
 }
+]
