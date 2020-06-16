@@ -5,6 +5,8 @@
         "kisahFileUrl": "https://srv-file20.gofile.io/download/hLVdrJ/paus.json",
         "author": "AbuZare",
         "shortDescription": "Kisah Tentang Dakwah Nabi Yunus kepada Kaum Ninawa dan Pertobatan Nabi Yunus alaihissalam",
+        "read": 150,
+        "category": "Kisah Nabi",
         "rating": 5
       },
       {
@@ -13,6 +15,8 @@
         "kisahFileUrl": "https://srv-file20.gofile.io/download/hLVdrJ/sapi.json",
         "author": "Al Minangkabawi",
         "shortDescription": "Kisah Tentang Salah Satu Mukjizat Nabi Musa alaihissalam di Hadapan Bani Israil",
+        "read": 100,
+        "category": "Kisah Hewan",
         "rating": 3
       },
       {
@@ -21,6 +25,8 @@
         "kisahFileUrl": "https://srv-file20.gofile.io/download/hLVdrJ/unta.json",
         "author": "Al Maduri",
         "shortDescription": "Kisah Dakwah Nabi Saleh kepada Kaum Tsamud dan Pembangkangan Kaum Tsamud Terhadap Dakwah Nabi Saleh",
+        "read": 50,
+        "category": "Kisah Teladan",
         "rating": 4
       }
   ]
