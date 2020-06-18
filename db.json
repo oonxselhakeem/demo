@@ -2,32 +2,35 @@
     {
         "judul": "Kisah Nabi Yunus alaihissalam dan Ikan Paus",
         "coverImage": "https://srv-file22.gofile.io/download/2Ml0eZ/yunus.jpg",
-        "kisahFileUrl": "https://srv-file20.gofile.io/download/hLVdrJ/paus.json",
         "author": "AbuZare",
         "shortDescription": "Kisah Tentang Dakwah Nabi Yunus kepada Kaum Ninawa dan Pertobatan Nabi Yunus alaihissalam",
+        "rating": 5,
         "read": 150,
-        "category": "Kisah Nabi",
-        "rating": 5
+        "storyText": "Kisah Nabi Yunus alaihissalam dan Ikan Paus^Nabi Yunus adalah nabi yang diutus oleh Alloh untuk berdakwah pada kaum Ninawa. Kaum Ninawa tinggal di daerah Mushol, Irak. Kaum Ninawa tinggal di daerah yang mendapat banyak sekali kenikmatan dari Alloh. Kebun kebun yang hijau berbuah lebat, air sungai terpancar di sekitarnya untuk diminum dan bercocok tanam.^Demikian juga binatang ternak, sapi dan kambing yang menghasilkan susu dan daging yang cukup.",
+        "storyImage": "https://srv-file22.gofile.io/download/2Ml0eZ/yunus1.jpg^https://srv-file22.gofile.io/download/2Ml0eZ/yunus2.jpg^https://srv-file22.gofile.io/download/2Ml0eZ/yunus3.jpg",
+        "storySound": "https://srv-file22.gofile.io/download/2Ml0eZ/paus1.mp3^https://srv-file22.gofile.io/download/2Ml0eZ/paus2.mp3^https://srv-file22.gofile.io/download/2Ml0eZ/paus3.mp3"
       },
       {
         "judul": "Kisah Sapi Bani Israil dan Nabi Musa Alaihissalam",
         "coverImage": "https://srv-file20.gofile.io/download/QY6pNv/musa.jpg",
-        "kisahFileUrl": "https://srv-file20.gofile.io/download/hLVdrJ/sapi.json",
         "author": "Al Minangkabawi",
         "shortDescription": "Kisah Tentang Salah Satu Mukjizat Nabi Musa alaihissalam di Hadapan Bani Israil",
+        "rating": 3,
         "read": 100,
-        "category": "Kisah Hewan",
-        "rating": 3
+        "storyText": "Kisah Sapi Bani Israil dan Nabi Musa^Bani Israil adalah kaumnya Nabi Musa. Suku bangsa bani Israil berasal dari keturunan Nabi Yaqub. Pada zaman itu mereka merupakan penduduk terbaik di bumi, tentu saja atas izin dan kuasa Alloh.^Pada suatu saat ada salah seorang dari mereka yang meninggal tanpa ada yang mengetahui sebabnya. Orang tersebut merupakan salah seorang yang kaya raya diantara mereka. Keluarga orang tersebut beranggapan ada yang menyakitinya, namun mereka tidak mengetahui siapa.",
+        "storyImage": "https://srv-file20.gofile.io/download/QY6pNv/musa1.jpg^https://srv-file20.gofile.io/download/QY6pNv/musa1.jpg^https://srv-file20.gofile.io/download/QY6pNv/musa3.jpg",
+        "storySound": "https://srv-file20.gofile.io/download/QY6pNv/sapi1.mp3^https://srv-file20.gofile.io/download/QY6pNv/sapi2.mp3^https://srv-file20.gofile.io/download/QY6pNv/sapi3.mp3"
       },
       {
         "judul": "Kisah unta dan Nabi Saleh Alaihissalam",
         "coverImage": "https://srv-file8.gofile.io/download/fOkxmC/saleh.png",
-        "kisahFileUrl": "https://srv-file20.gofile.io/download/hLVdrJ/unta.json",
         "author": "Al Maduri",
         "shortDescription": "Kisah Dakwah Nabi Saleh kepada Kaum Tsamud dan Pembangkangan Kaum Tsamud Terhadap Dakwah Nabi Saleh",
+        "rating": 4,
         "read": 50,
-        "category": "Kisah Teladan",
-        "rating": 4
+        "storyText": "Kisah unta dan Nabi Saleh^Kaum  Tsamud  tinggal di negeri Hijr, suatu kawasan di dekat Arab, tempat tinggal kaum Tsamud adalah lembah yang sangat indah dan subur, mereka suka bercocok tanam. Mereka juga diberi kepandaian oleh Alloh sehingga bisa membuat rumah rumah yang kokoh di bukit bukit.^Namun mereka tidak mensyukuri nikmat Alloh tersebut, mereka malah menyembah berhala.",
+        "storyImage": "https://srv-file8.gofile.io/download/fOkxmC/saleh1.jpg^https://srv-file8.gofile.io/download/fOkxmC/saleh2.jpg^https://srv-file8.gofile.io/download/fOkxmC/saleh3.jpg",
+        "storySound": "https://srv-file8.gofile.io/download/fOkxmC/unta1.mp3^https://srv-file8.gofile.io/download/fOkxmC/unta2.mp3^https://srv-file8.gofile.io/download/fOkxmC/unta3.mp3^"
       }
   ]
 }
